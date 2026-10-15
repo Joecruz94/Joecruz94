@@ -29,6 +29,8 @@ I am a passionate **Full-Stack Software Developer** with over 3 years of profess
   <img src="https://github-readme-stats.vercel.app/api?username=Joecruz94&show_icons=true&theme=tokyonight&hide_border=true" alt="Joecruz94's GitHub stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joecruz94&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
+[![Theophile's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=theophile-kango&count_private=true&include_all_commits=true&hide=contribs&show_icons=true)](https://github.com/theophile-kango)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theophile-kango&exclude_repo=ualehosaini.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/theophile-kango)
 
 ---
 
