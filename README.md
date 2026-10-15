@@ -1,6 +1,5 @@
 # 👋 Hello, I'm Kalabula Musikila Joseph
 
-<img src="https://komarev.com/ghprofile/ucard?username=Joecruz94&color=blueviolet&style=flat-square" alt="Joecruz94's GitHub stats" />
 
 I am a passionate **Full-Stack Software Developer** with over 3 years of professional experience building robust web and desktop applications. I specialize in designing scalable backend architectures, intuitive user interfaces, and efficient database systems.
 
