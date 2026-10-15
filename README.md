@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Kalabula Musikila Joseph
 
 
-I am a passionate **Full-Stack Software Developer** with over 3 years of professional experience building robust web and desktop applications. I specialize in designing scalable backend architectures, intuitive user interfaces, and efficient database systems.
+I am a passionate **Full-Stack Software Developer** with over 4 years of professional experience building robust web and desktop applications. I specialize in designing scalable backend architectures, intuitive user interfaces, and efficient database systems.
 
 ---
 
