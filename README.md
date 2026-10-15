@@ -17,7 +17,7 @@ I am a passionate **Full-Stack Software Developer** with over 3 years of profess
 
 ### 🚀 Key Projects
 
-* **BIZ-PRO:** A multi-store Point of Sale (POS) system built with Laravel and Bootstrap, featuring advanced financial tracking, credit management, and automated email notifications (Brevo SMTP).
+* **BIZ-PRO:** A multi-store Point of Sale (POS) system built with Laravel and Bootstrap, featuring advanced financial tracking, credit management, and automated email notifications
 * **Qwadoo Manager:** A logistics management platform designed to streamline tracking and operational workflows.
 * **SGA (School Management Software):** A comprehensive administration platform featuring multi-cycle management, student records, and financial analytics dashboards (Chart.js).
 
